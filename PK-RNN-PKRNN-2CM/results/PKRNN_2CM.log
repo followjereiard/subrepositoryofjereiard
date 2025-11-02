@@ -1,2 +1,0 @@
-{'real_vanco_to_feedback': True, 'change_regularize': 'square', 'eta1_var': 0.12, 'eta2_var': 0.149, 'eta3_var': 0.416, 'scale_change_eta': 100, 'EmbSize': 8, 'n_Layers': 1, 'Hidden_size': 64, 'Dropout': 0, 'Optimizer': 'adamax', 'LR': 0.001, 'L2': 0.2}
-Train_Error | Valid_Error | Test_Error | Train_time | Valid_time | Test_Error | Epoch | Average_loss
